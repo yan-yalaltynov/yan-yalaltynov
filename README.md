@@ -4,7 +4,6 @@ I'm an ITMO student majoring in **Software Engineering**
 
 #### 📫 How to reach me
 - Telegram: [yalaltynov](https://t.me/yalaltynov)
-- Email: yanyalaltynov@gmail.com
 <!--
 **yan-yalaltynov/yan-yalaltynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
